@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Patrik Majcher</h1>
-<h3 align="center">Passionate Web Developer from Slovakia, Thriving in Vienna 🚀 | Junior Full Stack Developer in Training at CodeFactory | 30 Years Young, Eager to Dive into the World of Coding | Seeking Entry-Level Opportunities</h3>
+<h3 align="center">Passionate Web Developer from Slovakia, Thriving in Vienna 🚀 | Junior Full Stack Developer | 30 Years Young, Eager to Dive into the World of Coding | Seeking Entry-Level Opportunities</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrikmajcher&label=Profile%20views&color=0e75b6&style=flat" alt="patrikmajcher" /> </p>
